@@ -24,3 +24,4 @@ int main() {
     printarray(array, size);
     return 0;
 }
+// c
